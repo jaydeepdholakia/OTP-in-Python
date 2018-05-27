@@ -23,7 +23,7 @@ And all the random integers are wraped in **print()** which will print it.
 
 Run it!
 
-If running in command prompt then to go the location (directory) and then write "python _your file name_.py
+If running in command prompt then to go the location (directory) and then write "python _your file name_.py"
 
 If running in any editor having compiler then just find a run button and just run it!!
 
