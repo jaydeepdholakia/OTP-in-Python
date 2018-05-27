@@ -1,5 +1,5 @@
 # OTP-in-Python
-Here I have uploaded a program that creates a OTP in Python.
+Here I have uploaded a program that creates an OTP in Python.
 
 ## Step-1
 
@@ -7,7 +7,7 @@ import the library named "random" by
 
 from random import *
 
-Note: Down bellow I will explain diffrence that has on above line and just "import random"
+Note: Down below, I will explain the difference that has on above line and just "import random"
 
 ## Step-2
 
@@ -23,12 +23,12 @@ And all the random integers are wraped in **print()** which will print it.
 
 Run it!
 
-If running in comand prompt then to go the location (directory) and then write "python _your file name_.py
+If running in command prompt then to go the location (directory) and then write "python _your file name_.py
 
-If running in any editor having compiler then just find run button and just run it!!
+If running in any editor having compiler then just find a run button and just run it!!
 
 
-## Diffrence between _from random import *_ and _import random_
+## Difference between _from random import *_ and _import random_
 
 ### from random import *
 
@@ -40,7 +40,7 @@ print(randint(0,9),randint(0,9),randint(0,9))
 
 Output: 0 5 9
 
-Note: Usally this approach not preferred.
+Note: Usually this approach not preferred.
 
 ### import random
 
